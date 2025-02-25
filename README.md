@@ -12,11 +12,7 @@
   - Black-Scholesモデル
   - 確率制御
   - Filtering
-4. numericals
-  - 確率微分方程式の数値計算
-  - オプションの数値計算
-  - 確率制御問題の数値計算（Achdou et al. (2021) ）
-  - Filtering問題の数値計算
+
   
   ## 参考文献
   各スライドに記載
